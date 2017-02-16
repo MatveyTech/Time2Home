@@ -1,0 +1,6 @@
+c:\users\matvey\documents\visual studio 2015\Projects\GMAPI\GMAPI\bin\Debug\GMAPI.exe.config
+c:\users\matvey\documents\visual studio 2015\Projects\GMAPI\GMAPI\bin\Debug\GMAPI.exe
+c:\users\matvey\documents\visual studio 2015\Projects\GMAPI\GMAPI\bin\Debug\GMAPI.pdb
+c:\users\matvey\documents\visual studio 2015\Projects\GMAPI\GMAPI\obj\Debug\GMAPI.exe
+c:\users\matvey\documents\visual studio 2015\Projects\GMAPI\GMAPI\obj\Debug\GMAPI.pdb
+C:\Users\matvey\Documents\Visual Studio 2015\Projects\GMAPI\GMAPI\obj\Debug\GMAPI.csprojResolveAssemblyReference.cache
